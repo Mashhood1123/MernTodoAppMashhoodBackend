@@ -1,0 +1,7 @@
+.todo-container{
+  margin-top: 20px;
+}
+
+.todo-container button:nth-child(1){
+  margin-right: 5px;
+}
