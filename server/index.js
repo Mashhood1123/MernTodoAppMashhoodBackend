@@ -16,5 +16,5 @@ app.use(cors());
 app.use("/todo", routes);
 
 app.listen(PORT, () => {
-  console.log("Tu mera putr chuti kr");
+  console.log("App is running");
 });
